@@ -1,0 +1,19 @@
+p {
+  color: red;
+}
+
+h1, h2 {
+	font-weight: 600;
+}
+
+h1 {
+	font-weight: 200;
+}
+
+.cname {
+  color:yellow
+}
+
+#iname {
+  color: blueviolet;
+}
