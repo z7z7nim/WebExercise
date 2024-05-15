@@ -1,0 +1,56 @@
+body {
+    font-size:15px;
+    line-height: 21px;
+    background-color: #000;
+    width:100%;
+    font-family: 'Spiller','Arial','Helvetica','sans-serif';
+    overflow-x: hidden;
+    color: #fff;
+}
+
+div.talberow {
+    display: table-row;
+}
+
+section.footer_blocks1 {
+    display: table-cell;
+}
+
+section.footer_blocks2 {
+    display: table-cell;
+}
+
+section.footer_blocks3 {
+    display: table-cell;
+}
+
+section.footer_blocks4 {
+    display: table-cell;
+}
+
+
+section.footer_blocks5 {
+    display: table-cell;
+}
+
+section.footer_blocks6 {
+    display: table-cell;
+}
+
+section.footer_blocks7 {
+    display: table-cell;
+}
+
+section.footer_blocks8 {
+    display: table-cell;
+}
+
+div.container {
+    display: table-cell;
+}
+
+div.footer {
+    display: table-cell;
+} 
+
+
