@@ -51,6 +51,16 @@ div.container {
 
 div.footer {
     display: table-cell;
-} 
+}
 
+.footer_link{
+    color: #fff;
+}
 
+.u-link{
+    color: #fff;
+}
+
+.footer_back {
+    color: #fff;
+}
