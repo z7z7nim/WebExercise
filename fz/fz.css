@@ -64,3 +64,23 @@ div.footer {
 .footer_back {
     color: #fff;
 }
+
+.headline--footer {
+    font-size: 23px;
+    font-size: 1.5333333333rem;
+    line-height: 28px;
+    line-height: 1.8666666667rem;
+    font-variation-settings: "wght" 500;
+    margin: 0;
+}
+
+div.container-title{
+    display: table-row;
+
+}
+div.footer_111 {
+    display: table-cell;
+}
+div.footer{
+    display: table-cell;
+}
