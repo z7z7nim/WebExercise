@@ -372,7 +372,7 @@ li.footer_item13 {
 }
 
 li.footer_item14 {
-    padding: 60px 0px 0px;
+    padding: 5px 0px 0px;
     margin: 0px 0px 12px;
     font-size: 13px;
 }
@@ -432,6 +432,8 @@ div.title1 {
     justify-content: space-between;
     margin: 0 auto;
     width: 1020px;
+    padding: 20px 0px 30px;
+    border-bottom: 1px solid #b7b8bd;
 }
 
 .title1 {
@@ -451,4 +453,51 @@ div.title1 {
 
 .right {
     width: 446px;
+}
+
+.p1 img,.p2 img,.p3 img,.p4 img,.p5 img{
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.p6{
+    margin: 0px 0px 0px 5px;
+    width: 13px;
+    height: 13px;
+}
+.p7{
+    width: 251px;
+    height: 146px;
+}
+
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pa,.pb,.pc,.pd,.pe {
+    box-sizing: border-box;
+    width: 4%;
+}
+
+.p1 :hover{
+    border: 1px solid #fff;
+}
+
+.p2 :hover{
+    border: 1px solid #fff;
+}
+
+.p3 :hover{
+    border: 1px solid #fff;
+}
+
+.p4 :hover{
+    border: 1px solid #fff;
+}
+
+.p5 :hover{
+    border: 1px solid #fff;
 }
